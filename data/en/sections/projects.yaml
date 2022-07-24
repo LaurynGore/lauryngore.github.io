@@ -1,0 +1,40 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+# filter buttons
+buttons:
+  - name: All
+    filter: "all"
+  - name: Web Design
+    filter: "web-design"
+  - name: Development
+    filter: "development"
+  - name: Audio Production
+    filter: "audio"
+  # - name: Animation
+  #   filter: 'animation'
+
+# your projects
+projects:
+  - name: Web App
+    logo: /images/sections/projects/kubernetes.png
+    url: https://github.com/LaurynGore/Web-App-Dev-1-Assignment-2/
+    summary: Basic web app for listing books by
+    tags: ["web-design", "development"]
+
+  - name: Arts and Crafts Website
+    logo: /images/sections/projects/kubernetes.png
+    url: https://github.com/LaurynGore/Web-App-Dev-1-Assignment-2/
+    summary: Interactive website
+    tags: ["web-design"]
+
+  - name: Subbmission for Smarter Travel Student Awards
+    logo: /images/sections/projects/kubernetes.png
+    url:
+    summary: My subbmission for Smarter Travel Student Awards
+    tags: ["audio"]
