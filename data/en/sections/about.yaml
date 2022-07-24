@@ -1,0 +1,26 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+designation: Student
+company:
+  name: South East Technological University
+  url: "https://www.setu.ie"
+
+socialLinks:
+  - name: Email
+    icon: "fas fa-envelope"
+    url: "lauryngore@gmail.com"
+
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://www.github.com/lauryngore"
+
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/lauryngore/"
