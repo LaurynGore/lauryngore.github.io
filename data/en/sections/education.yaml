@@ -1,0 +1,28 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html
+  enable: true
+  weight: 3
+  showOnNavbar: true
+degrees:
+  - name: B.Sc. in Multimedia Applications Development
+    icon: fa-graduation-cap
+    timeframe: 2020-2023
+    institution:
+      name: South East Technological University
+      url: "https://www.wit.ie/courses/bsc_in_multimedia_applications_development"
+    takenCourses:
+      showGrades: false
+      courses:
+        - name: User Experience Design
+        - name: Website Development 1 & 2
+        - name: Audio Production
+        - name: 2D Animation
+        - name: Web App Development 1
+        - name: Web Design and Development
+        - name: Database Fundamentals
+        - name: Database Systems
+    extracurricularActivities:
+      - Peer to peer mentorship program - Helping students find their way around the campus and advising students on available supports and answering any queries they may have.
