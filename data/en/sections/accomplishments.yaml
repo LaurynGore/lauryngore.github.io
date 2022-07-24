@@ -1,0 +1,14 @@
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 5
+  showOnNavbar: true
+
+accomplishments:
+  - name: Finalist
+    timeline: "April 2022"
+    organization:
+      name: Smarter Travel Student Awards
+      url: https://www.nationaltransport.ie/tfi-smarter-travel/smarter-travel-campus/smarter-travel-student-awards/finalists-smarter-travel-student-awards/
+    courseOverview: The Smarter Travel Student Awards invite students to develop a project that supports, facilitates and/or enables sustainable and active travel modes to, from, and on campus that is relevant to their field of study and interest.
