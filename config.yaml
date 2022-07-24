@@ -27,6 +27,7 @@ enableEmoji: true
 
 # Site parameters
 params:
+  background: "images/background.jpg"
   gitRepo: https://github.com/LaurynGore/lauryngore.github.io
   gitBranch: main
   enableBlogPost: false
