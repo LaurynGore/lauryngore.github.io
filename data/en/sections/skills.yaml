@@ -9,28 +9,28 @@ section:
 skills:
   - name: Git
     icon: fab fa-git-alt
-    summary: "- Used git pages to host a website "
+    summary: "Used GitHub for source code management and GitHub pages to host a website."
   - name: HTML
     icon: fab fa-html5
-    summary: "- Used HTML to create a static website"
+    summary: "Used HTML to create a static website."
   - name: CSS
     icon: fab fa-css3-alt
-    summary: "- Used CSS to design a website and a web app"
+    summary: "Used CSS to design a website and a web app."
   - name: JavaScript
     icon: fab fa-js
-    summary: "- Used JavaScript to create a interactive website"
+    summary: "Used JavaScript to create an interactive website."
   - name: NodeJS
     icon: fab fa-node
-    summary: "- Used Handlebars to create a dynamic website"
+    summary: "Created a web app using Handlebars."
   - name: Adobe Photoshop
     icon: fas fa-camera
-    summary: "- Used Adobe Photoshop to edit images "
+    summary: "Used Adobe Photoshop to edit images."
   - name: Adobe Illustrator
     icon: fas fa-paintbrush
-    summary: "- Used Adobe Illustrator to create logos"
+    summary: "Used Adobe Illustrator to create logos."
   - name: Adobe Animate
     icon: fas fa-camera
-    summary: "- Used Adobe Animate to create basic animated movement and walk cycles"
+    summary: "Used Adobe Animate to create basic animated movement and walk cycles."
   - name: Adobe Audition
     icon: fas fa-microphone
-    summary: "- Used Adobe Audition to create a song mashup and edit audio"
+    summary: "Used Adobe Audition to create a song mashup and to edit audio."
