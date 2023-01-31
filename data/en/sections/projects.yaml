@@ -16,8 +16,8 @@ buttons:
     filter: "development"
   - name: Audio Production
     filter: "audio"
-  # - name: Animation
-  #   filter: 'animation'
+  - name: Animation
+    filter: 'animation'
 
 # your projects
 projects:
@@ -38,3 +38,15 @@ projects:
     url: https://youtu.be/X2wR99XCBzA
     summary: My subbmission for Smarter Travel Student Awards
     tags: ["audio"]
+    
+    - name: Bouncing Ball Animation
+    logo: /images/sections/projects/kubernetes.png
+    url: https://youtu.be/Ne7advvFiz8
+    summary: A simple animation of a ball moving across the screen
+    tags: ["animation"]
+
+  - name: Faces Animation
+    logo: /images/sections/projects/kubernetes.png
+    url: https://youtu.be/-IFNmjnTxkg
+    summary: A simple animation of faces
+    tags: ["animation"]
