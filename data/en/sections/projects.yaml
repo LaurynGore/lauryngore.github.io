@@ -38,8 +38,8 @@ projects:
     url: https://youtu.be/X2wR99XCBzA
     summary: My subbmission for Smarter Travel Student Awards
     tags: ["audio"]
-    
-    - name: Bouncing Ball Animation
+
+  - name: Bouncing Ball Animation
     logo: /images/sections/projects/kubernetes.png
     url: https://youtu.be/Ne7advvFiz8
     summary: A simple animation of a ball moving across the screen
