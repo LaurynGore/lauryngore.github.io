@@ -7,12 +7,12 @@ section:
   weight: 3
   showOnNavbar: true
 degrees:
-  - name: B.Sc. in Multimedia Applications Development
+  - name: BSc (Hons) in Creative Computing
     icon: fa-graduation-cap
-    timeframe: 2020-2023
+    timeframe: 2020-2024
     institution:
       name: South East Technological University
-      url: "https://www.wit.ie/courses/bsc_in_multimedia_applications_development"
+      url: "https://www.wit.ie/courses/bsc-hons-in-creative-computing"
     takenCourses:
       showGrades: false
       courses:
@@ -24,5 +24,7 @@ degrees:
         - name: Web Design and Development
         - name: Database Fundamentals
         - name: Database Systems
+        - name: Software Development Tools
+        - name: Advanced Media Production
     extracurricularActivities:
       - Peer to peer mentorship program - Helping students find their way around the campus and advising students on available supports and answering any queries they may have.
