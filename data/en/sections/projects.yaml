@@ -33,6 +33,12 @@ projects:
     summary: Interactive website
     tags: ["web-design"]
 
+  - name: Book Console
+    logo: /images/sections/projects/kubernetes.png
+    url: https://github.com/LaurynGore/bookApp.git
+    summary: Basic app for books using Kotlin and gradle.
+    tags: ["web-design", "development"]
+
   - name: Subbmission for Smarter Travel Student Awards
     logo: /images/sections/projects/kubernetes.png
     url: https://youtu.be/X2wR99XCBzA
