@@ -18,7 +18,7 @@ skills:
     summary: "Used CSS to design a website and a web app."
   - name: JavaScript
     icon: fab fa-js
-    summary: "Used JavaScript to create an interactive website."
+    summary: "Used JavaScript to create an interactive website and "
   - name: NodeJS
     icon: fab fa-node
     summary: "Created a web app using Handlebars."
@@ -34,3 +34,6 @@ skills:
   - name: Adobe Audition
     icon: fas fa-microphone
     summary: "Used Adobe Audition to create a song mashup and to edit audio."
+  - name: Shotgrit
+    icon: fas fa-paintbrush
+    summary: "Used Shotgrid asset and time management."
