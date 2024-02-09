@@ -24,7 +24,7 @@ projects:
   - name: Web App
     logo: /images/sections/projects/kubernetes.png
     url: https://github.com/LaurynGore/Web-App-Dev-1-Assignment-2/
-    summary: Basic web app for listing books by
+    summary: Basic web app for listing books
     tags: ["web-design", "development"]
 
   - name: Arts and Crafts Website
@@ -49,4 +49,10 @@ projects:
     logo: /images/sections/projects/kubernetes.png
     url: https://youtu.be/-IFNmjnTxkg
     summary: A simple animation of faces
+    tags: ["animation"]
+
+  - name: The Witches Outcast
+    logo: /images/sections/projects/kubernetes.png
+    url: https://youtube.com/playlist?list=PL6RLh-VaaXkEkaRLdAAMCGPtm6Un8KKY6&si=rqEL3LEnpp8yYdjp
+    summary: My 4th Year College Project
     tags: ["animation"]
